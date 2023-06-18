@@ -1,0 +1,11 @@
+Instructions for Users
+
+1. Open command line
+2. Enter "cd \" to clear directory
+3. Enter "python3 PATH_TO_SERVER_FILE", where PATH_TO_SERVER_FILE is the path to the server program file. Ex) python3 C:\Users\melissa\Desktop\echo-server.py
+4. When prompted enter the server's IP address and port number.
+5. Open another command line window
+5. Enter "cd \" to clear directory
+6. Enter "python3 PATH", where PATH is the path to the client program file. Ex) python3 C:\Users\melissa\Desktop\echo-client.py
+7. When prompted enter the IP address and port number of the server.
+8. When prompted enter message that will be sent to server or enter Q to close client.
